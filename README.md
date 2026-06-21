@@ -1,0 +1,2 @@
+# prectice_Django
+Django
